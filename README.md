@@ -1,1 +1,1 @@
-# college_prediction_-_analysis
+# college_prediction_analysis
